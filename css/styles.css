@@ -64,3 +64,32 @@ html {
     display: flex;
     align-items: center;
 }
+
+.container__section-2-test-profile img{
+  width:50px;
+  border-radius: 100%;
+  margin-right: 16px;
+}
+
+.container__section-2-test-profile h4{
+  font-weight: 500;
+  color: #fff;
+}
+
+.container__section-2-test-profile p{
+  font-weight: 300;
+  opacity: 0.9;
+  color: hsl(333, 80%, 67%);
+  font-size: 1.1rem;
+  margin-top: 4px;
+}
+
+.container__section-2-test-text p{
+  color: #fff;
+  line-height: 18px;
+  margin-top: 12px;
+}
+
+@media (min-width: 768px){
+  
+}
